@@ -1,0 +1,32 @@
+body{
+	background-color: #FAF0E6;
+	backface-visibility: 10;
+}
+<style type="text/css">
+	h1{
+		font-size: 30px;
+		color: #483D8B;
+	}
+
+	h2{
+		font-size: 23px;
+		color: #00FF00;
+	}
+
+.big{
+	font-size: 60px;
+}	
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
+span{
+	color: #7FFFD4;
+}
+
+</style>
